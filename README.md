@@ -1,4 +1,3 @@
-```markdown
 # File Organizer
 
 This Python script organizes files in a specified directory by their extensions. It moves each file into a folder named after its extension (e.g., `.txt`, `.jpg`, etc.).

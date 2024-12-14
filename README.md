@@ -1,4 +1,4 @@
-# English
+# English :us:
 # File Organizer
 
 This Python script organizes files in a specified directory by their extensions. It moves each file into a folder named after its extension (e.g., `.txt`, `.jpg`, etc.).
@@ -28,7 +28,7 @@ This Python script organizes files in a specified directory by their extensions.
 
   
 
-# Português
+# Português :brazil:
 # Organizador de Arquivos
 
 Este script em Python organiza arquivos em um diretório especificado por suas extensões. Ele move cada arquivo para uma pasta nomeada de acordo com sua extensão (por exemplo, `.txt`, `.jpg`, etc.).

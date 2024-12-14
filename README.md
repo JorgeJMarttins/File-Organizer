@@ -26,6 +26,8 @@ This Python script organizes files in a specified directory by their extensions.
 
 - Python 3.x or higher.
 
+  
+
 # Português
 # Organizador de Arquivos
 

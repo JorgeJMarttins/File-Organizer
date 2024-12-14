@@ -24,10 +24,3 @@ This Python script organizes files in a specified directory by their extensions.
 ## Requirements
 
 - Python 3.x or higher.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can save this as `README.md` in your GitHub repository! Let me know if you need any adjustments.
